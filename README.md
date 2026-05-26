@@ -46,10 +46,3 @@ HealthyWorks is a digital wellness intranet project designed to support employee
 
 Through this project, I practiced how to plan and document a complete project management case study from initiation to planning. I learned how to organize project scope, estimate cost, identify stakeholders, assign responsibilities, analyze risks, and prepare project documentation in a structured way.
 
-## Future Improvements
-
-- Add a project timeline or Gantt chart
-- Add a visual stakeholder power-interest grid
-- Improve executive summary formatting
-- Add screenshots of key deliverables
-- Create a one-page case study summary
